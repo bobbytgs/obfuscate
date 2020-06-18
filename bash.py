@@ -1,4 +1,4 @@
-# author : @Syhrul_jaman
+# author : @Syahrul_jaman
 # -*- coding: utf-8 -*-
 
 import os
@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Syhrül jaman
-{}   FqM            MMMM    {}FB       {}: {}fb.com/bobby.ygs
+   HZM            MMMM    {}Coded by {}: {}Syahrül jaman
+{}   FqM            MMMM    {}FB       {}: {}fb.com/bobby.tgs
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
